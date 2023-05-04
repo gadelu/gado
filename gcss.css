@@ -7,12 +7,12 @@ img {
 
 #content {
 text-align: center;
-padding: 40px;    
+padding: 20px;    
 display: grid;
-grid-template-columns: repeat(2,300px);
+grid-template-columns: repeat(2,400px);
 justify-content: center;
 gap: 30px;
-margin: 40px auto;
+margin: 30px auto;
 }
 
 li {
