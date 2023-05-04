@@ -1,7 +1,7 @@
 img {
-    max-width: 350pX;
+    max-width: 400pX;
     max-height: 250px;
-    object-fit: fill;
+    object-fit: cover;
     border-radius: 30px;
 }
 
