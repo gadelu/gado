@@ -32,7 +32,7 @@
                                 <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
-                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
+                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon50px.png" width="30"></a></td>
                             </tr>
                             `;
                             document.getElementById("table-body").innerHTML = tableData;
@@ -59,7 +59,7 @@
                                 <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
-                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
+                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon50px.png" width="30"></a></td>
                             </tr>
                             `;
                             document.getElementById("table-body2").innerHTML = tableData2;
@@ -86,7 +86,7 @@
                                 <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
-                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
+                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon50px.png" width="30"></a></td>
                             </tr>
                             `;
                             document.getElementById("table-body3").innerHTML = tableData3;
@@ -113,7 +113,7 @@
                                 <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
-                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
+                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon50px.png" width="30"></a></td>
                             </tr>
                             `;
                             document.getElementById("table-body4").innerHTML = tableData4;
@@ -141,7 +141,7 @@
                                 <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
-                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
+                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon50px.png" width="30"></a></td>
                             </tr>
                             `;
                             document.getElementById("table-body5").innerHTML = tableData5;
@@ -169,7 +169,7 @@
                                 <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
-                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
+                                <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon50px.png" width="30"></a></td>
                             </tr>
                             `;
                             document.getElementById("table-body6").innerHTML = tableData6;
