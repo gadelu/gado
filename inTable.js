@@ -29,7 +29,7 @@
                         if (item.competition.name.search(gtitle) != -1){
                             tableData += `
                             <tr>
-                                <td><img src="${item.thumbnail} width="75" height="75" "></td>
+                                <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
                                 <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
@@ -56,7 +56,7 @@
                         if (item.competition.name.search(gtitle2) != -1){
                             tableData2 += `
                             <tr>
-                                <td><img src="${item.thumbnail} width="75" height="75" "></td>
+                                <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
                                 <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
@@ -83,7 +83,7 @@
                         if (item.competition.name.search(gtitle3) != -1){
                             tableData3 += `
                             <tr>
-                                <td><img src="${item.thumbnail} width="75" height="75" "></td>
+                                <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
                                 <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
@@ -110,7 +110,7 @@
                         if (item.competition.name.search(gtitle4) != -1){
                             tableData4 += `
                             <tr>
-                                <td><img src="${item.thumbnail} width="75" height="75" "></td>
+                                <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
                                 <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
@@ -138,7 +138,7 @@
                         if (item.competition.name.search(gtitle5) != -1){
                             tableData5 += `
                             <tr>
-                                <td><img src="${item.thumbnail} width="75" height="75" "></td>
+                                <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
                                 <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
@@ -166,7 +166,7 @@
                         if (item.competition.name.search(gtitle6) != -1){
                             tableData6 += `
                             <tr>
-                                <td><img src="${item.thumbnail} width="75" height="75" "></td>
+                                <td><img src="${item.thumbnail}" width="75" height="75"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
                                 <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
