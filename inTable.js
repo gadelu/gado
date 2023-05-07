@@ -32,7 +32,7 @@
                                 <td><img src="${item.thumbnail} width="75" height="75" "></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
-                                <td><a href="${getMatch(item.embed)}" target="_blank"><icon src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30"></a></td>
+                                <td><a href="${getMatch(item.embed)}" target="_blank"><ion-icon name="logo-youtube"></ion-icon></a></td>
                             </tr>
                             `;
                             document.getElementById("table-body").innerHTML = tableData;
