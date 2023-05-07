@@ -29,7 +29,7 @@
                         if (item.competition.name.search(gtitle) != -1){
                             tableData += `
                             <tr>
-                                <td><img src="${item.thumbnail}" width="75"></td>
+                                <td><img src="${item.thumbnail}" id="myImg"></td>
                                 <td>${item.title}</td>
                                 <td>${OurNewDateFormat}</td>
                                 <td><a href="${getMatch(item.embed)}" target="_blank"><img src="https://3ajel.info/wp-content/uploads/2023/05/tv-icon.png" width="30" height="30"></a></td>
